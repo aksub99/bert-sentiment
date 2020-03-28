@@ -5,4 +5,4 @@ This repository contains a PyTorch implementation of `BERT` to extract the porti
 `sentiment-bert.ipynb` contains the implementation and results. The data and problem description can be found in the Kaggle competition `Tweet Sentiment Extraction`.
 
 For a detailed walk-through of this code, please view my blog post at
-[BERT: Using Hugging Face for Sentiment Extraction with PyTorch](https://medium.com/@akshaysubramanian99/bert-using-hugging-face-for-sentiment-extraction-with-pytorch-2477980e7976)
+[BERT: Using Hugging Face for Sentiment Extraction with PyTorch](https://medium.com/@akshaysubramanian99/bert-using-hugging-face-for-sentiment-extraction-with-pytorch-2477980e7976).
